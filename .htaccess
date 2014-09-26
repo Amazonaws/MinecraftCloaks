@@ -1,0 +1,4 @@
+**FilesMatch "\.(mov|mp3|png|pdf)$"**
+  ForceType application/octet-stream
+  Header set Content-Disposition attachment
+**/FilesMatch**
