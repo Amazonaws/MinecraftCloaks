@@ -1,1 +1,2 @@
 <Files *.png> ForceType applicaton/octet-stream Header set Content-Disposition attachment </Files>
+ErrorDocument 404 http://www.amazonaws.github.com/MinecraftCloaks/404.html
